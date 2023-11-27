@@ -74,6 +74,9 @@ Name | Badges
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=010binary&show_icons=true&locale=en&theme=dark&rank_icon=github" />
 </a>
 <br>
+<br>
+<br>
+<br>
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=010binary&layout=compact&theme=dark&hide_border=false)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=010binary&show_icons=true&locale=en&theme=onedark" alt="010binary" /></p> -->
 
