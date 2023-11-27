@@ -67,12 +67,13 @@ Name | Badges
  
  ## Stats.
 
- <a href="https://github.com/010binary/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=010binary&show_icons=true&locale=en&theme=onedark" />
-</a>
 <a href="https://github.com/010binary/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=010binary&layout=compact&theme=dark&hide_border=false&langs_count=8&card_width=320" />
 </a>
+ <a href="https://github.com/010binary/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=010binary&show_icons=true&locale=en&theme=onedark&rank_icon=github" />
+</a>
+
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=010binary&layout=compact&theme=dark&hide_border=false)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=010binary&show_icons=true&locale=en&theme=onedark" alt="010binary" /></p> -->
