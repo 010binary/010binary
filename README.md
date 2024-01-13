@@ -5,9 +5,9 @@
 <br>
 <p align="left"> <a href="https://twitter.com/August13200296" target="blank"><img src="https://img.shields.io/twitter/follow/Alpha_01?logo=twitter&style=for-the-badge" alt="Alpha_01" /></a> </p>
 
-- 🔭 I’m working on **Projects with ReactJS, NextJS And Django**
+- 🔭 I’m working on **Projects with ReactJS, Flask**
 
-- 🌱 I’m also learning **Bun and FastApi**
+- 🌱 I’m also learning **NextJs and Django**
 
 - 💬 You can ask me about **Python and JavaScript**
 
