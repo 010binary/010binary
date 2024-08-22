@@ -1,6 +1,6 @@
 
 <h1 align="center">Augustine Chukwuemeka's Profile</h1>
-<h3 align="center">Full stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 <br>
 <p align="left"> <a href="https://twitter.com/August13200296" target="blank"><img src="https://img.shields.io/twitter/follow/Alpha_01?logo=twitter&style=for-the-badge" alt="Alpha_01" /></a> </p>
