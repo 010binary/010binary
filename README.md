@@ -77,8 +77,8 @@ Name | Badges
 <br>
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=010binary&layout=compact&theme=dark&hide_border=false)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=010binary&show_icons=true&locale=en&theme=onedark" alt="010binary" /></p>
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=010binary&layout=compact&theme=dark&hide_border=false)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=010binary&show_icons=true&locale=en&theme=onedark" alt="010binary" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=010binary&theme=dark" alt="010binary" /></p>
 <br/>
