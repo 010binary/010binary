@@ -5,9 +5,9 @@
 <br>
 <p align="left"> <a href="https://twitter.com/August13200296" target="blank"><img src="https://img.shields.io/twitter/follow/Alpha_01?logo=twitter&style=for-the-badge" alt="Alpha_01" /></a> </p>
 
-- 🔭 I’m working on **Projects with React NextJs, NodeJs, Flask**
+- 🔭 I’m working on **Projects with Frontend: ReactJs & NextJs, Backend: NodeJs, Flask , Django{large scale app}**
 
-- 🌱 I’m also learning **Django and React Native**
+- 🌱 I’m also learning **React Native**
 
 - 💬 You can ask me about **Python and JavaScript**
 
@@ -77,8 +77,8 @@ Name | Badges
 <br>
 <br>
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=010binary&layout=compact&theme=dark&hide_border=false)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=010binary&show_icons=true&locale=en&theme=onedark" alt="010binary" /></p> -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=010binary&layout=compact&theme=dark&hide_border=false)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=010binary&show_icons=true&locale=en&theme=onedark" alt="010binary" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=010binary&theme=dark" alt="010binary" /></p>
 <br/>
