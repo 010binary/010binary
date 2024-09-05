@@ -5,11 +5,11 @@
 <br>
 <p align="left"> <a href="https://twitter.com/August13200296" target="blank"><img src="https://img.shields.io/twitter/follow/Alpha_01?logo=twitter&style=for-the-badge" alt="Alpha_01" /></a> </p>
 
-- 🔭 I’m working on **Projects with Backend: NodeJs, Flask, laravel, Django{large scale app} Frontend: ReactJs & NextJs, **
+- 🔭 I’m working on **Projects with Backend: NodeJs, Flask, Django{large scale app} Frontend: ReactJs & NextJs, **
 
 - 🌱 I’m also learning **JAVA**
 
-- 💬 You can ask me about **Python, PHP and JavaScript**
+- 💬 You can ask me about **Python and JavaScript**
 
 - 📫 How to reach me **Augustine32fg@gmail.com**
 
