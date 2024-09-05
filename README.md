@@ -5,7 +5,7 @@
 <br>
 <p align="left"> <a href="https://twitter.com/August13200296" target="blank"><img src="https://img.shields.io/twitter/follow/Alpha_01?logo=twitter&style=for-the-badge" alt="Alpha_01" /></a> </p>
 
-- 🔭 I’m working on **Projects with Frontend: ReactJs & NextJs, Backend: NodeJs, Flask , Django{large scale app}**
+- 🔭 I’m working on **Projects with Frontend: ReactJs & NextJs, Backend: NodeJs, Flask, laravel, Django{large scale app}**
 
 - 🌱 I’m also learning **React Native**
 
