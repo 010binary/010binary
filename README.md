@@ -8,7 +8,7 @@
 
 - 🔭 I’m working on **Projects with Backend: NodeJs, Flask, Django FastAPI
 
-- Frontend: ReactJs & NextJs
+- 🔭 I’m working on **Projects with Frontend: ReactJs & NextJs
 
 - 🌱 I’m also learning **JAVA**
 
