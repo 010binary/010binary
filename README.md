@@ -10,7 +10,7 @@
 
 - 🔭 I’m working on Projects with Frontend: ReactJs & NextJs
 
-- 🌱 I’m also learning **JAVA**
+- 🌱 I’m also learning **C# and .Net**
 
 - 💬 You can ask me about **Python and JavaScript**
 
