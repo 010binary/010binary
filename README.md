@@ -6,11 +6,9 @@
 <br>
 <p align="left"> <a href="https://twitter.com/August13200296" target="blank"><img src="https://img.shields.io/twitter/follow/Alpha_01?logo=twitter&style=for-the-badge" alt="Alpha_01" /></a> </p>
 
-- 🔭 I’m working on Projects with Backend: NodeJs, Flask, Django FastAPI
+- 🔭 I’m working on Projects with: JavaScript/TypeScript & Python
 
-- 🔭 I’m working on Projects with Frontend: ReactJs & NextJs
-
-- 🌱 I’m also learning **C# and .Net**
+<!-- - 🌱 I’m also learning **C# and .Net** -->
 
 - 💬 You can ask me about **Python and JavaScript**
 
@@ -40,8 +38,6 @@ Name | Badges
 <hr>
 
 ### 👔 Soft skills.
-
-✅ Cross-platform development skills
 
 ✅ Creativity
 
