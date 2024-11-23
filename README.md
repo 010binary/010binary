@@ -55,13 +55,14 @@ Name | Badges
 
 <hr>
 
+<!--
 ## ❤ Views and Followers.
 
 <a href="https://github.com/010binary/github-profile-views-counter">
 </a>
 <a href="https://github.com/010binary?tab=followers"><img src="https://img.shields.io/github/followers/010binary?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
+-->
  <br>
  
  
@@ -77,14 +78,11 @@ Name | Badges
 <br>
 <br>
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=010binary&layout=compact&theme=dark&hide_border=false)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=010binary&show_icons=true&locale=en&theme=onedark" alt="010binary" /></p> -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=010binary&layout=compact&theme=dark&hide_border=false)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=010binary&show_icons=true&locale=en&theme=onedark" alt="010binary" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=010binary&theme=dark" alt="010binary" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level, Thank you.
-
-
-<!-- > <a href="https://github.com/010binary/github-readme-activity-graph"><img alt="010binary' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=010binary&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-
 <br/>
+<img src="footer.png">
