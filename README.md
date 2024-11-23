@@ -1,6 +1,7 @@
 
-<h1 align="center">Augustine Chukwuemeka's Profile</h1>
-<h3 align="center">Software Engineer</h3>
+<!-- banner -->
+<img src="Github Background.png" alt="My Profile Banner content (Augustine chukwuemeka software Engineer)">
+<!-- banner -->
 
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 <br>
