@@ -4,11 +4,10 @@
 <!-- banner -->
 
 <!-- wiget -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=010binary&label=Profile%20views&color=0e75b6&style=flat&base=372" alt="augustine-profile count" /> <a href="https://www.github.com/010binary" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/010binary?logo=github&style=flat&color=0e75b6&labelColor=grey" /></a> <a href="https://twitter.com/August13200296" target="blank"><img src="https://img.shields.io/twitter/follow/Alpha_01?logo=twitter&style=flat&color=0e75b6&labelColor=grey" alt="Alpha_01" /></a>  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=010binary&label=Profile%20views&color=0e75b6&style=flat&base=372" alt="augustine-profile count" /> <a href="https://www.github.com/010binary" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/010binary?logo=github&style=flat&color=0e75b6&labelColor=grey" /></a> <a href="https://twitter.com/August13200296" target="blank"><img src="https://img.shields.io/twitter/follow/Alpha_01?logo=twitter&style=for-the-badge&color=0e75b6&labelColor=grey" alt="Alpha_01" /></a>  </p>
 <!-- wiget -->
 
 <br>
-<p align="left"> <a href="https://twitter.com/August13200296" target="blank"><img src="https://img.shields.io/twitter/follow/Alpha_01?logo=twitter&style=for-the-badge" alt="Alpha_01" /></a> </p>
 
 - 🔭 I’m working on Projects with: JavaScript/TypeScript & Python
 
