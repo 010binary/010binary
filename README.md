@@ -16,12 +16,16 @@
 <h3 align="left">Bio:</h3>
 <p align="left">As a software engineer with a passion for building robust and efficient server-side systems, I am focused on enhancing my expertise in Java and JavaScript/TypeScript to expand my skillset and develop scalable backend solutions. With a strong foundation in programming principles and a commitment to continuous learning, I am excited to leverage my technical skills to create high-performing APIs, databases, and infrastructure that power exceptional applications.</p>
 
- 
- ## 🔗 Links:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpha-augustine/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/yucs4r)
-[![Twitter](https://img.shields.io/badge/twitter?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/August13200296/)
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://tolucoder.herokuapp.com/) - ⚡ Fun fact **I'm an enthusiastic learner a big team player.**
+<h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/August13200296" target="blank"><img align="center" src="twitter.png" alt="augustine32fg" height="25" width="25" /></a>
+<a href="https://www.linkedin.com/in/alpha-augustine" target="blank"><img align="center" src="linkedin.png" alt="augustine32fg" height="25" width="25" /></a>
+<a href="https://www.facebook.com/augustine.emeka.1253" target="blank"><img align="center" src="facebook.png" alt="aaugustine32fg" height="25" width="25" /></a>
+<a href="https://www.instagram.com/10_binary" target="blank"><img align="center" src="instagram.png" alt="augustine32fg" height="25" width="25" /></a>
+<!--<a href="https://dribbble.com/daslam" target="blank"><img align="center" src="dribble.png" alt="daslam" height="25" width="25" /></a>
+<a href="https://www.behance.net/dhikrulaslam" target="blank"><img align="center" src="behance.png" alt="dhikrulaslam" height="25" width="25" /></a>
+<a href="https://www.youtube.com/@adtec_exe" target="blank"><img align="center" src="youtube.png" alt="adtec_exe" height="25" width="25" /></a>-->
+</p>
 
 - 🔭 I'm a member of **Google Developer Group, Enugu State**-->
 
