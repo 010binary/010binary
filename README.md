@@ -10,23 +10,20 @@
 <h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>, I'm Augustine Chukwuemeka</h2><h3 align="left">Software Engineer.</h3>
 
 - 🔭 I’m working on Projects with:**JavaScript/TypeScript, Python & Java.**
-
 - 💬 You can ask me about anything on: **Java, Python and JavaScript/TypeScript**
-
-- 🌱 I’m currently learning **JavaScript/TypeScript, Python & Java.**
-
 - 📫 Reach me on **Augustine32fg@gmail.com**
 
-- ⚡ Fun fact **I'm an enthusiastic learner a big team player.**
-
-- 🔭 I'm a member of **Google Developer Group, Enugu State**
+<h3 align="left">Bio:</h3>
+<p align="left">As a software engineer with a passion for building robust and efficient server-side systems, I am focused on enhancing my expertise in Java and JavaScript/TypeScript to expand my skillset and develop scalable backend solutions. With a strong foundation in programming principles and a commitment to continuous learning, I am excited to leverage my technical skills to create high-performing APIs, databases, and infrastructure that power exceptional applications.</p>
 
  
  ## 🔗 Links:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpha-augustine/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/yucs4r)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/August13200296/)
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://tolucoder.herokuapp.com/) -->
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://tolucoder.herokuapp.com/) - ⚡ Fun fact **I'm an enthusiastic learner a big team player.**
+
+- 🔭 I'm a member of **Google Developer Group, Enugu State**-->
 
 
 ### 🛠 Tool and Framework
