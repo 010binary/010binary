@@ -27,7 +27,7 @@
 <a href="https://www.youtube.com/@adtec_exe" target="blank"><img align="center" src="youtube.png" alt="adtec_exe" height="25" width="25" /></a>-->
 </p>
 
-### 🛠 Tool and Framework
+<h3 align="left">🛠 Tool and Framework</h3>
 
 Name | Badges
 --- | --- 
@@ -39,7 +39,7 @@ Name | Badges
 
 <hr>
 
-### 👔 Soft skills.
+<h3 align="left">👔 Soft skills.</h3>
 
 ✅ Creativity
 
@@ -53,19 +53,9 @@ Name | Badges
 
 ✅ Professionalism 
 
-<hr>
+<br>
 
-<!--
-## ❤ Views and Followers.
-
-<a href="https://github.com/010binary/github-profile-views-counter">
-</a>
-<a href="https://github.com/010binary?tab=followers"><img src="https://img.shields.io/github/followers/010binary?label=Followers&style=social" alt="GitHub Badge"></a>
-
--->
- <br>
- 
- ## Stats.
+<h3 align="left">📊 Stats</h3>
 
 <a href="https://github.com/010binary/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=010binary&layout=compact&theme=dark&hide_border=false&langs_count=8&card_width=320" />
