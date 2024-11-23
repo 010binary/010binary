@@ -9,8 +9,8 @@
 
 <h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>, I'm Augustine Chukwuemeka</h2><h3 align="left">Software Engineer.</h3>
 
-- 🔭 I’m working on Projects with:**JavaScript/TypeScript, Python & Java.**
-- 💬 You can ask me about anything on: **Java, Python and JavaScript/TypeScript**
+- 🔭 I’m working on Projects with: **Java, Python and JavaScript/TypeScript.**
+- 💬 You can ask me about anything on: **Java, Python and JavaScript/TypeScript.**
 - 📫 Reach me on **Augustine32fg@gmail.com**
 
 <h3 align="left">💫 Bio:</h3>
@@ -37,8 +37,6 @@ Name | Badges
 **CI/CD & Hosting**   | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 </p> 
 
-<hr>
-
 <h3 align="left">👔 Soft skills.</h3>
 
 ✅ Creativity
@@ -53,12 +51,10 @@ Name | Badges
 
 ✅ Professionalism 
 
-<br>
-
 <h3 align="left">📊 Stats</h3>
 
 <a href="https://github.com/010binary/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=010binary&layout=compact&theme=dark&hide_border=false&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=010binary&layout=compact&theme=dark&border_color=292e35&hide_border=false&langs_count=8&card_width=320" />
 </a>
 
  <a href="https://github.com/010binary/github-readme-stats">
