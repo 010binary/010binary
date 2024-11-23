@@ -13,7 +13,7 @@
 - 💬 You can ask me about anything on: **Java, Python and JavaScript/TypeScript**
 - 📫 Reach me on **Augustine32fg@gmail.com**
 
-<h3 align="left">Bio:</h3>
+<h3 align="left">💫 Bio:</h3>
 <p align="left">As a software engineer with a passion for building robust and efficient server-side systems, I am focused on enhancing my expertise in Java and JavaScript/TypeScript to expand my skillset and develop scalable backend solutions. With a strong foundation in programming principles and a commitment to continuous learning, I am excited to leverage my technical skills to create high-performing APIs, databases, and infrastructure that power exceptional applications.</p>
 
 <h3 align="left">🔗 Connect with me:</h3>
@@ -26,9 +26,6 @@
 <a href="https://www.behance.net/dhikrulaslam" target="blank"><img align="center" src="behance.png" alt="dhikrulaslam" height="25" width="25" /></a>
 <a href="https://www.youtube.com/@adtec_exe" target="blank"><img align="center" src="youtube.png" alt="adtec_exe" height="25" width="25" /></a>-->
 </p>
-
-- 🔭 I'm a member of **Google Developer Group, Enugu State**-->
-
 
 ### 🛠 Tool and Framework
 
