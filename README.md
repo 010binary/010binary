@@ -65,7 +65,6 @@ Name | Badges
 -->
  <br>
  
- 
  ## Stats.
 
 <a href="https://github.com/010binary/convoychat">
@@ -76,13 +75,10 @@ Name | Badges
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=010binary&show_icons=true&locale=en&theme=dark&rank_icon=github" />
 </a>
 <br>
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=010binary&layout=compact&theme=dark&hide_border=false)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=010binary&show_icons=true&locale=en&theme=onedark" alt="010binary" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=010binary&theme=dark" alt="010binary" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level, Thank you.
 <br/>
+<br>
 <img src="footer.png">
