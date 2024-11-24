@@ -33,8 +33,8 @@ Name | Badges
 --- | --- 
 **Languages**  | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=000cf5) ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=spring&logoColor=6DB33F) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB)
 **Frameworks, Platforms and Libraries** | ![Spring](https://img.shields.io/badge/spring-323330?style=for-the-badge&logo=spring&logoColor=6DB33F) ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white) ![Apollo](https://img.shields.io/badge/apollographql-000000?style=for-the-badge&logo=apollographql&logoColor=311C87)
-**Databases**  | ![mySQL](https://img.shields.io/badge/mysql-323330?style=for-the-badge&logo=mysql&logoColor=white) ![Postgresql](https://img.shields.io/badge/postgresql-323330?style=for-the-badge&logo=postgresql&logoColor=4169E1)  ![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=white) 
-**CI/CD & Hosting**   | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
+**Databases**  | ![mySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white) ![Postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)  ![MongoDB](https://img.shields.io/badge/MongoDB-6DA55F?style=for-the-badge&logo=mongodb&logoColor=white) 
+**CI/CD & Hosting**   | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 </p> 
 
 <!--![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) -->
@@ -65,7 +65,7 @@ Name | Badges
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=010binary&theme=dark&border_color=292e35" alt="010binary" /></p>
 <br/>
- <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level, Thank you.
+ <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level.
 <br/>
 <br>
 <img src="footer.png">
