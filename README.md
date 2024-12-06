@@ -11,7 +11,8 @@
 
 - 🔭 I’m working on Projects with: **Java, Python and JavaScript/TypeScript.**
 - 💬 You can ask me about anything on: **Java, Python and JavaScript/TypeScript.**
-- 📫 Reach me on **Augustine32fg@gmail.com**
+- 📫 Reach me on **Asogwaaugustineemeka@gmail.com**
+- 🤵🏾 Portfolio <a href="https://portfolio-mu-gold-43.vercel.app/" target="blank">**Link**</a>
 
 <h3 align="left">💫 Bio:</h3>
 <p align="left">As a software engineer with a passion for building robust and efficient server-side systems, I am focused on enhancing my expertise in Java and JavaScript/TypeScript to expand my skillset and develop scalable backend solutions. With a strong foundation in programming principles and a commitment to continuous learning, I am excited to leverage my technical skills to create high-performing APIs, databases, and infrastructure that power exceptional applications.</p>
