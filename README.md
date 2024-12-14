@@ -62,9 +62,6 @@ Name | Badges
  <a href="https://github.com/010binary/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=010binary&show_icons=true&border_color=292e35&locale=en&theme=dark&rank_icon=github" />
 </a>
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=010binary&theme=dark&border_color=292e35" alt="010binary" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level.
 <br/>
