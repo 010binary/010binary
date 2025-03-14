@@ -9,8 +9,8 @@
 
 <h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>, I'm Augustine Chukwuemeka</h2><h3 align="left">Software Engineer.</h3>
 
-- 🔭 I’m working on Projects with: **Java and JavaScript/TypeScript.**
-- 💬 You can ask me about anything on: **Java and JavaScript/TypeScript.**
+- 🔭 I’m working on Projects with: **Java, JavaScript and TypeScript.**
+- 💬 You can ask me about anything on: **Java, JavaScript and TypeScript.**
 - 📫 Reach me on **Asogwaaugustineemeka@gmail.com**
 - 🤵🏾 Portfolio <a href="https://portfolio-mu-gold-43.vercel.app/" target="blank">**Link**</a>
 
