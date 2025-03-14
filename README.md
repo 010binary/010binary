@@ -4,7 +4,7 @@
 <!-- banner -->
 
 <!-- wiget -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=010binary&label=Profile%20views&color=0e75b6&style=flat&base=372" alt="augustine-profile count" /> <a href="https://www.github.com/010binary" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/010binary?logo=github&style=flat&color=0e75b6&labelColor=grey" /></a> <a href="https://twitter.com/August13200296" target="blank"><img src="https://img.shields.io/twitter/follow/Alpha_01?logo=twitter&style=flat&color=0e75b6&labelColor=grey" alt="Alpha_01" /></a>  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=010binary&label=Profile%20views&color=0e75b6&style=flat" alt="augustine-profile count" /> <a href="https://www.github.com/010binary" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/010binary?logo=github&style=flat&color=0e75b6&labelColor=grey" /></a> <a href="https://twitter.com/August13200296" target="blank"><img src="https://img.shields.io/twitter/follow/Alpha_01?logo=twitter&style=flat&color=0e75b6&labelColor=grey" alt="Alpha_01" /></a>  </p>
 <!-- wiget -->
 
 <h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>, I'm Augustine Chukwuemeka</h2><h3 align="left">Software Engineer.</h3>
