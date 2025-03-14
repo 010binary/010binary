@@ -9,8 +9,8 @@
 
 <h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>, I'm Augustine Chukwuemeka</h2><h3 align="left">Software Engineer.</h3>
 
-- 🔭 I’m working on Projects with: **Java, Python and JavaScript/TypeScript.**
-- 💬 You can ask me about anything on: **Java, Python and JavaScript/TypeScript.**
+- 🔭 I’m working on Projects with: **Java and JavaScript/TypeScript.**
+- 💬 You can ask me about anything on: **Java and JavaScript/TypeScript.**
 - 📫 Reach me on **Asogwaaugustineemeka@gmail.com**
 - 🤵🏾 Portfolio <a href="https://portfolio-mu-gold-43.vercel.app/" target="blank">**Link**</a>
 
@@ -32,7 +32,7 @@
 
 Name | Badges
 --- | --- 
-**Languages**  | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=000cf5) ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=spring&logoColor=6DB33F) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+**Languages**  | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=000cf5) ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=spring&logoColor=6DB33F) 
 **Frameworks, Platforms and Libraries** | ![Spring](https://img.shields.io/badge/spring-323330?style=for-the-badge&logo=spring&logoColor=6DB33F) ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white) ![Apollo](https://img.shields.io/badge/apollographql-000000?style=for-the-badge&logo=apollographql&logoColor=311C87)
 **Databases**  | ![mySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white) ![Postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)  ![MongoDB](https://img.shields.io/badge/MongoDB-6DA55F?style=for-the-badge&logo=mongodb&logoColor=white) 
 **CI/CD & Hosting**   | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
