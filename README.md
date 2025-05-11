@@ -9,9 +9,10 @@
 
 <h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>, I'm Augustine Chukwuemeka</h2><h3 align="left">Software Engineer.</h3>
 
-- 🔭 I’m working on Projects with: **Java, JavaScript and TypeScript.**
-- 💬 You can ask me about anything on: **Java, JavaScript and TypeScript.**
-- 📫 Reach me on **Asogwaaugustineemeka@gmail.com**
+- 🔭 I’m working on Projects with: **Java, TypeScript (JavaScript), PHP.**
+- 💬 You can ask me about anything on: **Java, TypeScript (JavaScript), PHP.**
+- 🌱 I'm Currently Learning **Golang.**
+- 📫 Reach me on **Asogwaaugustineemeka@gmail.com.**
 - 🤵🏾 Portfolio <a href="https://portfolio-mu-gold-43.vercel.app/" target="blank">**Link**</a>
 
 <h3 align="left">💫 Bio:</h3>
@@ -32,8 +33,8 @@
 
 Name | Badges
 --- | --- 
-**Languages**  | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=000cf5) ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=spring&logoColor=6DB33F) 
-**Frameworks** | ![Spring](https://img.shields.io/badge/spring-323330?style=for-the-badge&logo=spring&logoColor=6DB33F) ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white) 
+**Languages**  | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=000cf5) ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=spring&logoColor=6DB33F) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+**Frameworks** | ![Spring](https://img.shields.io/badge/spring-323330?style=for-the-badge&logo=spring&logoColor=6DB33F) ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61dafb) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 **Databases**  | ![mySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white) ![Postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)  ![MongoDB](https://img.shields.io/badge/MongoDB-6DA55F?style=for-the-badge&logo=mongodb&logoColor=white) 
 **CI/CD & Hosting**   | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 </p> 
