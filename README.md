@@ -1,9 +1,11 @@
-
 <!-- banner -->
-<img src="Github Background.png" alt="My Profile Banner content (Augustine chukwuemeka software Engineer)">
+
+`<img src="Github Background.png" alt="My Profile Banner content (Augustine chukwuemeka software Engineer)">`
+
 <!-- banner -->
 
 <!-- wiget -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=010binary&label=Profile%20views&color=0e75b6&style=flat" alt="augustine-profile count" /> <a href="https://www.github.com/010binary" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/010binary?logo=github&style=flat&color=0e75b6&labelColor=grey" /></a> <a href="https://twitter.com/August13200296" target="blank"><img src="https://img.shields.io/twitter/follow/Alpha_01?logo=twitter&style=flat&color=0e75b6&labelColor=grey" alt="Alpha_01" /></a>  </p>
 <!-- wiget -->
 
@@ -11,9 +13,9 @@
 
 - 🔭 I’m working on Projects with: **Java, TypeScript (JavaScript), C#.**
 - 💬 You can ask me about anything on: **Java, TypeScript (JavaScript), C#.**
-- 🌱 I'm Currently Learning **Golang.**
+- 🌱 I'm Currently Learning **Kubernetes.**
 - 📫 Reach me on **Asogwaaugustineemeka@gmail.com.**
-- 🤵🏾 Portfolio <a href="https://portfolio-mu-gold-43.vercel.app/" target="blank">**Link**</a>
+- 🤵🏾 Portfolio `<a href="https://portfolio-mu-gold-43.vercel.app/" target="blank">`**Link** `</a>`
 
 <h3 align="left">💫 Bio:</h3>
 <p align="left">As a software engineer with a passion for building robust and efficient server-side systems, I am focused on enhancing my expertise in Java and JavaScript/TypeScript to expand my skillset and develop scalable backend solutions. With a strong foundation in programming principles and a commitment to continuous learning, I am excited to leverage my technical skills to create high-performing APIs, databases, and infrastructure that power exceptional applications.</p>
@@ -31,15 +33,17 @@
 
 <h3 align="left">🛠 Tool and Framework</h3>
 
-Name | Badges
---- | --- 
-**Languages**  | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=000cf5) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-**Frameworks** | ![Spring](https://img.shields.io/badge/spring-323330?style=for-the-badge&logo=spring&logoColor=6DB33F) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=black) ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-**Databases**  | ![mySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white) ![Postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)  ![MongoDB](https://img.shields.io/badge/MongoDB-6DA55F?style=for-the-badge&logo=mongodb&logoColor=white) 
-**CI/CD & Hosting**   | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-</p> 
+| Name                      | Badges                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**       | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=000cf5) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)                     |
+| **Frameworks**      | ![Spring](https://img.shields.io/badge/spring-323330?style=for-the-badge&logo=spring&logoColor=6DB33F) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=black) ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)                 |
+| **Databases**       | ![mySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white) ![Postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)  ![MongoDB](https://img.shields.io/badge/MongoDB-6DA55F?style=for-the-badge&logo=mongodb&logoColor=white)                                                                                                                            |
+| **CI/CD & Hosting** | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white) |
+
+</p>
 
 <!--![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) -->
+
 <h3 align="left">👔 Soft skills.</h3>
 
 ✅ Creativity
@@ -52,19 +56,19 @@ Name | Badges
 
 ✅ Adaptability
 
-✅ Professionalism 
+✅ Professionalism
 
-<h3 align="left">📊 Stats</h3>
+<!-- <h3 align="left">📊 Stats</h3>
 
 <a href="https://github.com/010binary/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=010binary&layout=compact&theme=dark&border_color=292e35&hide_border=false&langs_count=8&card_width=320" />
 </a>
 
- <a href="https://github.com/010binary/github-readme-stats">
+<a href="https://github.com/010binary/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=010binary&show_icons=true&border_color=292e35&locale=en&theme=dark&rank_icon=github" />
 </a>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level.
-<br/>
-<br>
+<br/> -->
+<!-- <br> -->
 <img src="footer.png">
