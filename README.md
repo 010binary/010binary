@@ -18,7 +18,7 @@
 - 🤵🏾 Portfolio `<a href="https://portfolio-mu-gold-43.vercel.app/" target="blank">`**Link** `</a>`
 
 <h3 align="left">💫 Bio:</h3>
-<p align="left">As a software engineer with a passion for building robust and efficient server-side systems, I am focused on enhancing my expertise in Java and JavaScript/TypeScript to expand my skillset and develop scalable backend solutions. With a strong foundation in programming principles and a commitment to continuous learning, I am excited to leverage my technical skills to create high-performing APIs, databases, and infrastructure that power exceptional applications.</p>
+<p align="left">As a software engineer with a passion for building robust and efficient server-side systems, I am focused on enhancing my expertise in Java, C# and JavaScript/TypeScript to expand my skillset and develop scalable backend solutions. With a strong foundation in programming principles and a commitment to continuous learning, I am excited to leverage my technical skills to create high-performing APIs, databases, and infrastructure that power exceptional applications.</p>
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
@@ -70,5 +70,7 @@
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level.
 <br/> -->
+
 <!-- <br> -->
+
 <img src="footer.png">
