@@ -1,6 +1,6 @@
 <!-- banner -->
 
-`<img src="Github Background.png" alt="My Profile Banner content (Augustine chukwuemeka software Engineer)">`
+<img src="Github Background.png" alt="My Profile Banner content (Augustine chukwuemeka software Engineer)">
 
 <!-- banner -->
 
